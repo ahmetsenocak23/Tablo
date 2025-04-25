@@ -5,7 +5,7 @@ from config import DATABASE
 ************************************************
 Proje adı: "Ödev"
 Proje açıklaması: "Harika detaylı bi tablo"
-Projenin GitHub deposuna bir bağlantı: "koyacam"
+Projenin GitHub deposuna bir bağlantı: "https://github.com/ahmetsenocak23/Tablo.git"
 Proje durumu: "Gelişiyor" 
 Projede kullanılan beceri: "sqlite3 + python"
 ************************************************
